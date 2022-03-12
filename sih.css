@@ -1,0 +1,37 @@
+#head{
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    color: chocolate;
+    background-image: linear-gradient(90deg,
+    cyan, yellow, violet);
+    background-position: center;
+    background-size: 20px;
+    border-radius: 40px;
+}
+
+.loi{
+    display: inline-block;
+    background-color: teal;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 30px;
+    color: white;
+}
+
+.loi:hover{
+    font-size: 40px;
+}
+
+.login{
+    display: inline-block;
+    background-color: aquamarine;
+    font-size: 30px;
+    padding: 40px;
+    border-radius: 30px;
+}
+
+.login:hover{
+    font-size: 40px;
+}
+
